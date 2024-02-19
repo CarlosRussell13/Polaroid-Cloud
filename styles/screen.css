@@ -69,24 +69,33 @@ main {
 .details ul li.cloud {
     background: url('cloud-arrow-up-solid.svg')no-repeat center left;
     list-style-type: none;
-    
+    margin: 20px 80px;
+    padding: 0 0 0 50px;
+    min-height: 28px;
+}
 
-.details ul li.photo {
+.details ul li.film {
     background: url('photo-film-solid.svg')no-repeat center left;
     list-style-type: none;
-    
+    margin: 20px 80px;
+    padding: 0 0 0 50px;
+    min-height: 28px;
 }
 
 .details ul li.qr {
     background: url('qrcode-solid.svg')no-repeat center left;
     list-style-type: none;
-    
+    margin: 20px 80px;
+    padding: 0 0 0 50px;
+    min-height: 28px;
 }
 
 .details ul li.wifi {
     background: url('wifi-solid.svg')no-repeat center left;
     list-style-type: none;
-   
+    margin: 20px 80px;
+    padding: 0 0 0 50px;
+    min-height: 28px;
 }
 
 
@@ -109,5 +118,4 @@ p {
     padding-left: 115px;
     padding-right: 115px;
     font-size: 23.5px;
-}
 }
