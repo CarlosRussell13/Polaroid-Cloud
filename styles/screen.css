@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap')
 
-:root>{
+:root> {
     --main-bg-color: #e9e9e9;
     --primary-text-color: #424242;
     --accent-color: #ff3f3c;
@@ -68,34 +68,22 @@ main {
 
 .details ul li.cloud {
     background: url('/images/cloud-arrow-up-solid.svg')no-repeat center left;
-    list-style-type: none;
-    margin: 20px 80px;
-    padding: 0 0 0 50px;
-    min-height: 28px;
+    
 }
 
 .details ul li.film {
     background: url('/images/photo-film-solid.svg')no-repeat center left;
-    list-style-type: none;
-    margin: 20px 80px;
-    padding: 0 0 0 50px;
-    min-height: 28px;
+   
 }
 
 .details ul li.qr {
     background: url('/images/qrcode-solid.svg')no-repeat center left;
-    list-style-type: none;
-    margin: 20px 80px;
-    padding: 0 0 0 50px;
-    min-height: 28px;
+    
 }
 
 .details ul li.wifi {
     background: url('/images/wifi-solid.svg')no-repeat center left;
-    list-style-type: none;
-    margin: 20px 80px;
-    padding: 0 0 0 50px;
-    min-height: 28px;
+   
 }
 
 
